@@ -53,91 +53,17 @@ namespace String_Array_Char_methods__Access_modifiers
             Console.WriteLine(CustomLastIndexOf("salam",'a'));
 
 
-             static string CustomTrim(string input) //INTERNETDEN KOMEK ALDIM
-            {
-                int startIndex = 0;
-                int endIndex = input.Length - 1;
-
-                while (startIndex <= endIndex && char.IsWhiteSpace(input[startIndex]))
-                {
-                    startIndex++;
-                }
-
-                while (endIndex >= startIndex && char.IsWhiteSpace(input[endIndex]))
-                {
-                    endIndex--;
-                }
-
-                if (startIndex <= endIndex)
-                {
-                    return input.Substring(startIndex, endIndex - startIndex + 1);
-                }
-                else
-                {
-                    return string.Empty;
-                }
+             
 
 
 
-
-                static string CustomSubstring(string input, int startIndex, int length) //INTERNETDEN KOMEK ALDIM
-                {
-                    StringBuilder result = new StringBuilder();
-                    for (int i = startIndex; i < startIndex + length && i < input.Length; i++)
-                    {
-                        result.Append(input[i]);
-                    }
-                    return result.ToString();
-                }
+                
 
 
 
 
 
-
-                 static bool CustomContains(string input, string searchSubstring) //INTERNETDEN KOMEK ALDIM
-                {
-                    for (int i = 0; i <= input.Length - searchSubstring.Length; i++)
-                    {
-                        bool found = true;
-                        for (int j = 0; j < searchSubstring.Length; j++)
-                        {
-                            if (input[i + j] != searchSubstring[j])
-                            {
-                                found = false;
-                                break;
-                            }
-                        }
-                        if (found)
-                        {
-                            return true;
-                        }
-                    }
-                    return false;
-                }
-
-
-                static string CustomReplace(string input, string target, string replacement) //INTERNETDEN KOMEK ALDIM
-                {
-                    StringBuilder result = new StringBuilder();
-                    for (int i = 0; i < input.Length; i++)
-                    {
-                        if (i <= input.Length - target.Length && input.Substring(i, target.Length) == target)
-                        {
-                            result.Append(replacement);
-                            i += target.Length - 1;
-                        }
-                        else
-                        {
-                            result.Append(input[i]);
-                        }
-                    }
-                    return result.ToString();
-                }
-
-
-
-            }
+                
 
 
 
