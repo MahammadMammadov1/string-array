@@ -1,0 +1,14 @@
+C:\Users\Mehemmed\Desktop\BP206task\String,Array,Char methods, Access modifiers\String,Array,Char methods, Access modifiers\bin\Debug\net6.0\String,Array,Char methods, Access modifiers.exe
+C:\Users\Mehemmed\Desktop\BP206task\String,Array,Char methods, Access modifiers\String,Array,Char methods, Access modifiers\bin\Debug\net6.0\String,Array,Char methods, Access modifiers.deps.json
+C:\Users\Mehemmed\Desktop\BP206task\String,Array,Char methods, Access modifiers\String,Array,Char methods, Access modifiers\bin\Debug\net6.0\String,Array,Char methods, Access modifiers.runtimeconfig.json
+C:\Users\Mehemmed\Desktop\BP206task\String,Array,Char methods, Access modifiers\String,Array,Char methods, Access modifiers\bin\Debug\net6.0\String,Array,Char methods, Access modifiers.dll
+C:\Users\Mehemmed\Desktop\BP206task\String,Array,Char methods, Access modifiers\String,Array,Char methods, Access modifiers\bin\Debug\net6.0\String,Array,Char methods, Access modifiers.pdb
+C:\Users\Mehemmed\Desktop\BP206task\String,Array,Char methods, Access modifiers\String,Array,Char methods, Access modifiers\obj\Debug\net6.0\String,Array,Char methods, Access modifiers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mehemmed\Desktop\BP206task\String,Array,Char methods, Access modifiers\String,Array,Char methods, Access modifiers\obj\Debug\net6.0\String,Array,Char methods, Access modifiers.AssemblyInfoInputs.cache
+C:\Users\Mehemmed\Desktop\BP206task\String,Array,Char methods, Access modifiers\String,Array,Char methods, Access modifiers\obj\Debug\net6.0\String,Array,Char methods, Access modifiers.AssemblyInfo.cs
+C:\Users\Mehemmed\Desktop\BP206task\String,Array,Char methods, Access modifiers\String,Array,Char methods, Access modifiers\obj\Debug\net6.0\String,Array,Char methods, Access modifiers.csproj.CoreCompileInputs.cache
+C:\Users\Mehemmed\Desktop\BP206task\String,Array,Char methods, Access modifiers\String,Array,Char methods, Access modifiers\obj\Debug\net6.0\String,Array,Char methods, Access modifiers.dll
+C:\Users\Mehemmed\Desktop\BP206task\String,Array,Char methods, Access modifiers\String,Array,Char methods, Access modifiers\obj\Debug\net6.0\refint\String,Array,Char methods, Access modifiers.dll
+C:\Users\Mehemmed\Desktop\BP206task\String,Array,Char methods, Access modifiers\String,Array,Char methods, Access modifiers\obj\Debug\net6.0\String,Array,Char methods, Access modifiers.pdb
+C:\Users\Mehemmed\Desktop\BP206task\String,Array,Char methods, Access modifiers\String,Array,Char methods, Access modifiers\obj\Debug\net6.0\String,Array,Char methods, Access modifiers.genruntimeconfig.cache
+C:\Users\Mehemmed\Desktop\BP206task\String,Array,Char methods, Access modifiers\String,Array,Char methods, Access modifiers\obj\Debug\net6.0\ref\String,Array,Char methods, Access modifiers.dll

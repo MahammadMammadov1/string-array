@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "String,Array,Char methods, Access modifiers/1.0.0": {
+        "runtime": {
+          "String,Array,Char methods, Access modifiers.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "String,Array,Char methods, Access modifiers/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
